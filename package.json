@@ -4,6 +4,10 @@
   "description": "Custom Spectral Linter",
   "main": "main.yaml",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhatikuldeep/api-spectral.git"
+  },
   "keywords": [
     "spectral"
   ],
