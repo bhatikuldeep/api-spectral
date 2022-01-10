@@ -2,7 +2,7 @@
   "name": "api-spectral",
   "version": "2.1.0",
   "description": "Custom Spectral Linter",
-  "main": ".spectral.js",
+  "main": "main.yml",
   "scripts": {},
   "repository": {
     "type": "git",
