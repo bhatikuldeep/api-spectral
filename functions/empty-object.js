@@ -1,3 +1,5 @@
+"use strict";
+
 module.exports = (security) => {
   // eslint-disable-line consistent-return
   if (Object.keys(security).length === 0) {

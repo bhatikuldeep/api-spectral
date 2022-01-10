@@ -1,3 +1,5 @@
+"use strict";
+
 module.exports = function (targetValue, options, paths, otherValues) {
   const list = Object.keys(targetValue);
 

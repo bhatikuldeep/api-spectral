@@ -1,3 +1,5 @@
+"use strict";
+
 module.exports = (responseObjects) => {
   // eslint-disable-line consistent-return
   /**
